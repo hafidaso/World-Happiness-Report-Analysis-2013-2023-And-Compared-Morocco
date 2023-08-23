@@ -46,7 +46,7 @@ $ jupyter notebook
 
 ## Visualizations
 
-For detailed visualizations, check out the [Jupyter Notebook](😀 World Happiness.ipynb) containing all the analyses.
+For detailed visualizations, check out the [Jupyter Notebook]([😀 World Happiness.ipynb](https://github.com/hafidaso/World-Happiness-Report-Analysis-2013-2023-And-Compared-Morocco/blob/6a49bb0b0ccef5de078820d9d14580355260fb7d/%F0%9F%98%80%20World%20Happiness.ipynb)) containing all the analyses.
 
 ...
 
