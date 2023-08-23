@@ -12,7 +12,6 @@ Analysis of the World Happiness Report data spanning from 2013 to 2023.
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
 - [Visualizations](#visualizations)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -47,4 +46,8 @@ $ jupyter notebook
 
 ## Visualizations
 
+For detailed visualizations, check out the [Jupyter Notebook](path_to_your_notebook.ipynb) containing all the analyses.
 
+...
+
+## [License]([path_to_license_file](https://github.com/hafidaso/World-Happiness-Report-Analysis-2013-2023-And-Compared-Morocco/blob/82587c55d6d8a4af5ef2942f70c3ee98be9185f5/LICENSE)https://github.com/hafidaso/World-Happiness-Report-Analysis-2013-2023-And-Compared-Morocco/blob/82587c55d6d8a4af5ef2942f70c3ee98be9185f5/LICENSE)
