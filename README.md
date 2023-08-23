@@ -46,7 +46,7 @@ $ jupyter notebook
 
 ## Visualizations
 
-For detailed visualizations, check out the [Jupyter Notebook](path_to_your_notebook.ipynb) containing all the analyses.
+For detailed visualizations, check out the [Jupyter Notebook](😀 World Happiness.ipynb) containing all the analyses.
 
 ...
 
