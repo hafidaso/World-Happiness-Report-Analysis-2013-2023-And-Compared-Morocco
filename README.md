@@ -2,7 +2,7 @@
 
 Analysis of the World Happiness Report data spanning from 2013 to 2023.
 
-![Banner or a representative image from your analysis](world Happiness.PNG)
+![world Happiness.PNG](world Happiness.PNG)
 
 ## Table of Contents
 
