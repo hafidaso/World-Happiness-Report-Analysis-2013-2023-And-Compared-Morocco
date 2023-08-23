@@ -2,7 +2,7 @@
 
 Analysis of the World Happiness Report data spanning from 2013 to 2023.
 
-![Banner or a representative image from your analysis]([path_to_image.jpg](https://github.com/hafidaso/World-Happiness-Report-Analysis-2013-2023-And-Compared-Morocco/blob/main/world%20Happiness.PNG))
+![Banner or a representative image from your analysis](world Happiness.PNG)
 
 ## Table of Contents
 
