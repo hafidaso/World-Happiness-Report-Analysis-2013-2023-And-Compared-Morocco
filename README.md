@@ -42,3 +42,7 @@ To run this project, you need to have Python installed and the mentioned librari
 $ git clone https://github.com/your_username/World-Happiness-Report-Analysis.git
 $ cd World-Happiness-Report-Analysis
 $ jupyter notebook
+
+## Visualizations
+
+
