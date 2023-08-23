@@ -43,6 +43,8 @@ $ git clone https://github.com/your_username/World-Happiness-Report-Analysis.git
 $ cd World-Happiness-Report-Analysis
 $ jupyter notebook
 
+```
+
 ## Visualizations
 
 
