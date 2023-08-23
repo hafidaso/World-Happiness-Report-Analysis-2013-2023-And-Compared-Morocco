@@ -50,4 +50,8 @@ For detailed visualizations, check out the [Jupyter Notebook]([😀 World Happin
 
 ...
 
-## [License]([path_to_license_file](https://github.com/hafidaso/World-Happiness-Report-Analysis-2013-2023-And-Compared-Morocco/blob/82587c55d6d8a4af5ef2942f70c3ee98be9185f5/LICENSE)https://github.com/hafidaso/World-Happiness-Report-Analysis-2013-2023-And-Compared-Morocco/blob/82587c55d6d8a4af5ef2942f70c3ee98be9185f5/LICENSE)
+## License
+
+## [License]([path_to_license_file](https://github.com/hafidaso/World-Happiness-Report-Analysis-2013-2023-And-Compared-Morocco/blob/824cad14a9fc7d4313fca11669fc31f2e9bcca79/LICENSE)https://github.com/hafidaso/World-Happiness-Report-Analysis-2013-2023-And-Compared-Morocco/blob/824cad14a9fc7d4313fca11669fc31f2e9bcca79/LICENSE)
+
+
