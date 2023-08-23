@@ -52,6 +52,6 @@ For detailed visualizations, check out the [Jupyter Notebook]([😀 World Happin
 
 ## License
 
-## [License]([path_to_license_file](https://github.com/hafidaso/World-Happiness-Report-Analysis-2013-2023-And-Compared-Morocco/blob/824cad14a9fc7d4313fca11669fc31f2e9bcca79/LICENSE)https://github.com/hafidaso/World-Happiness-Report-Analysis-2013-2023-And-Compared-Morocco/blob/824cad14a9fc7d4313fca11669fc31f2e9bcca79/LICENSE)
+[License]([path_to_license_file](https://github.com/hafidaso/World-Happiness-Report-Analysis-2013-2023-And-Compared-Morocco/blob/824cad14a9fc7d4313fca11669fc31f2e9bcca79/LICENSE)https://github.com/hafidaso/World-Happiness-Report-Analysis-2013-2023-And-Compared-Morocco/blob/824cad14a9fc7d4313fca11669fc31f2e9bcca79/LICENSE)
 
 
